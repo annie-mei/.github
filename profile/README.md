@@ -4,7 +4,7 @@
 
 Open source tools for anime and manga discovery in Discord.
 
-[Main bot](https://github.com/annie-mei/annie-mei) · [Auth service](https://github.com/annie-mei/auth) · [Docs](https://github.com/annie-mei/docs)
+[Main bot](https://github.com/annie-mei/annie-mei) · [Auth service](https://github.com/annie-mei/auth) · [Live docs](https://annie-mei.mintlify.app/) · [Docs source](https://github.com/annie-mei/docs)
 
 ![Rust](https://img.shields.io/badge/Rust-2024-orange?logo=rust&logoColor=white)
 ![Discord bot](https://img.shields.io/badge/Discord-bot-5865F2?logo=discord&logoColor=white)
@@ -41,7 +41,8 @@ Annie Mei is a Rust Discord bot that helps your server look up anime and manga d
 
 ## Explore Annie Mei
 
-- Read the [project documentation](https://github.com/annie-mei/docs)
+- Read the [live documentation site](https://annie-mei.mintlify.app/)
+- Browse the [docs source repository](https://github.com/annie-mei/docs)
 - Browse the [main bot source](https://github.com/annie-mei/annie-mei)
 - Inspect the [AniList auth service](https://github.com/annie-mei/auth)
 
